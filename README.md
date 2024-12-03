@@ -1,4 +1,4 @@
-# WhatsChatt
+# WhatsChatt_Application
 
 WhatsChatt is a Java-based chat application that enables users to exchange messages in real-time. This project demonstrates the use of client-server architecture, multithreading, and basic GUI design for creating a functional and scalable messaging platform.
 
